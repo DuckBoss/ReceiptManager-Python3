@@ -1,0 +1,9 @@
+------------------------------
+Product Name - ITEM1
+Price - 1.00
+Quantity - 1
+Total Price - 1.00
+------------------------------
+
+
+Grand Total - 1.00
