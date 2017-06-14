@@ -101,9 +101,9 @@ def main():
 						input("Enter a key to continue...")
 
 				if(billInp == "B"):
-					leaveInp = input("Are you sure? Make sure you save your progress. [Yes/No]").upper().strip()
+					leaveInp = input("Are you sure? Make sure you save your progress. [Yes/No] - ").upper().strip()
 					while not leaveInp:
-						leaveInp = input("Are you sure? Make sure you save your progress. [Yes/No]").upper().strip()
+						leaveInp = input("Are you sure? Make sure you save your progress. [Yes/No] - ").upper().strip()
 					if(leaveInp == "YES"):
 						break
 					continue
